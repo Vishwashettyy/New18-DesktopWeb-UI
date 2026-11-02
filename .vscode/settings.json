@@ -1,0 +1,6 @@
+{
+  "code-runner.cwd": "$workspaceRoot",
+  "code-runner.executorMap": {
+    "typescript": "npx playwright test \"$fullFileName\""
+  }
+}
